@@ -3,7 +3,7 @@
 ![faria](https://img.shields.io/github/issues/Fariawillyan/Jogo_da_velha_Java) ![faria2](https://img.shields.io/github/forks/Fariawillyan/Jogo_da_velha_Java) ![](https://img.shields.io/github/stars/Fariawillyan/Jogo_da_velha_Java)
 
 
-## 🚀 Linguagens Java <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
+## 🚀 Linguagem Java <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
 Jogo Sudoku onde o jogador não pode repetir o número de 1 a 9 na vertical, horizontal e quadrante. A princípio o jogador deverá alterar no código fonte os números para ver o resultado. Em breve será disponibilizado uma interface gráfica para melhorar a experiência do usuário.
 
 ## 📋 Pré-requisitos
