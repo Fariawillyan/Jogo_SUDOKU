@@ -32,7 +32,7 @@ Linguagem Java
 Por favor, Agradeço se houver críticas construtivas. Caso queira contribuir com meus projetos entre em contatos pelos meios disponiveis na página.
 
 ## 📌 Versão
-Única 0.2
+v 1.0
 continuo.
 
 ## ✒️ Autores
